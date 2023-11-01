@@ -1,7 +1,7 @@
 p, li, h1{
-    color: red;
+    color: black;
     width: 500px;
-    border: 1px solid black;
+    border: none;
 }
 
 html{
@@ -39,4 +39,10 @@ h1{
     padding: 20px 0;
     color: #00539f;
     text-shadow: 3px 3px 1px black;
+}
+
+/*Gestion de l'image*/
+img{
+    display: block;
+    margin: 0 auto;
 }
